@@ -16,3 +16,5 @@ This procedure was tested on Ubuntu 14.04 LTS and RoboDK 1.0 downloaded from the
 ** Do this at your own risk! **
 
 The author reserves the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected. 
+
+The author of this fix is in no way affiliated with RoboDK.
