@@ -3,7 +3,7 @@
 In order to be able to use Python scripts in RoboDK, first make sure that you have installed Python 3.4 and Python IDLE 3.4 or newer. 
 This can be done using:
 
-		sudo apt-get install python3.4 && idle-python3.4
+		sudo apt-get install python3.4 idle-python3.4
 
 After that, download the contents of res folder (robodk.py and robolink.py) and place them into the Python3.4 directory. 
 The default folder for this is "/usr/lib/python3.4". Then open Tools->Options->Python and set:
